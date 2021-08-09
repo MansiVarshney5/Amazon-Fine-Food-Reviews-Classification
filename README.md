@@ -1,5 +1,7 @@
 # Amazon-Fine-Food-Reviews-Classification
-Sentiment Analysis
+Sentiment Analysis                                        
+**Aim :** To determine the sentiment of a given review. (Negative/ Neutral/ Positive)                       
+**ML Task :** Supervised Learning Multi-Class Text Classification                       
 
 **Data Source:** https://www.kaggle.com/snap/amazon-fine-food-reviews
 
