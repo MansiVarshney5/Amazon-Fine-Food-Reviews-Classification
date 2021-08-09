@@ -7,11 +7,12 @@ Sentiment Analysis
 
 The dataset consists of reviews of fine foods from Amazon.
 
-**Number of reviews:** 568,454
-**Number of users:** 256,059
-**Number of products:** 74,258
-**Timespan:** Oct 1999 - Oct 2012
-**Number of Attributes/Columns in data:** 10
+**Number of reviews:** 568,454                      
+**Number of users:** 256,059                              
+**Number of products:** 74,258                              
+**Timespan:** Oct 1999 - Oct 2012                                   
+**Number of Attributes/Columns in data:** 10                                
+
 
 **Approach:**
 
@@ -22,6 +23,8 @@ Support Vector Machine, Naïve Bayes, K-Nearest Neighbors with Hyperparameter tu
 • Used Accuracy, Precision, Recall and F1-Score as metrics for comparison. Best Model was Logistic Regression with TF-IDF having accuracy 0.93.
 
 -----------------------
+
+![image](https://user-images.githubusercontent.com/81185267/128704650-a487e8c5-4ef4-4372-b1e5-9d02f1064407.png)
 
 **Attribute Information:**
 - Id
